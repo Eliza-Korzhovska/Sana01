@@ -20,7 +20,6 @@ Console.WriteLine($"y = {y}");
 Console.WriteLine($"z = {z}");
 Console.WriteLine($"r = {r}");
 
-0
 
 
 
