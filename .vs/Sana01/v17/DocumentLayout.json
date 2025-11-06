@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer\\source\\repos\\Sana01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3AF653-A9A2-4DFC-9C77-6E079B93B063}|LinearExpressions1\\LinearExpressions1.csproj|c:\\users\\acer\\source\\repos\\sana01\\linearexpressions1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F3AF653-A9A2-4DFC-9C77-6E079B93B063}|LinearExpressions1\\LinearExpressions1.csproj|solutionrelative:linearexpressions1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\Sana01\\LinearExpressions1\\Program.cs",
+              "RelativeDocumentMoniker": "LinearExpressions1\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\source\\repos\\Sana01\\LinearExpressions1\\Program.cs",
+              "RelativeToolTip": "LinearExpressions1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T20:20:55.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
